@@ -10,3 +10,7 @@
 To generate adaptor code, run >> mvn graphwalker:generate-sources ; it will look for model files in folder 'src/main/resources' and it will generate an interface for each model in folder 'target/generated-sources/graphwalker'.
 
 To execute, run >> mvn graphwalker:test
+
+##
+Custom tests added to ADDPetTest;
+Custom Test at the page https://bueno.inf.br/teste/painel/index.php?route=common/login, test login page.
